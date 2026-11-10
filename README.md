@@ -1,2 +1,2 @@
 # PYTHON
-Repository dedicated to projects and training in the Python language
+A little bit of my studies about some sctuctures in Python languague!
